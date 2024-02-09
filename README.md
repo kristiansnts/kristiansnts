@@ -31,7 +31,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg"
         width="48"
         height="48"
         alt="Bootstrap"
@@ -57,16 +57,6 @@
         alt="MySQL"
       />
       <br /><strong>MySQL</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="ReactJS"
-      />
-      <br /><strong>ReactJS</strong>
-    </td>
   </tr>
 </table>
 
