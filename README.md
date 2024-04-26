@@ -56,6 +56,15 @@
       />
       <br /><strong>MySQL</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+        width="48"
+        height="48"
+        alt="MySQL"
+      />
+      <br /><strong>Laravel</strong>
+    </td>
   </tr>
 </table>
 
